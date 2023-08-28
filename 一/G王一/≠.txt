@@ -1,4 +1,4 @@
-≠  (not equal to)
+≠	U+2260
 
 差 	uGaf
 着 	uGhf
