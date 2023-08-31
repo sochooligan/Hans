@@ -1,5 +1,8 @@
-≠	U+2260
+≠		U+2260
 
-差 	uGaf
-着 	uGhf
-哪	knGb
+判  丷G刂	uGjh
+
+那  𠃌G阝	nGb
+差  䒑G工	uGaf
+着 		uGhf
+哪		knGb
